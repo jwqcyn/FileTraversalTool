@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ShutdownTool">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/ShutdownTool_jar/ShutdownTool.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
